@@ -1,9 +1,9 @@
-## Learn Cryptocurrency and master Crypto Trading
+#  Learn Cryptocurrency and master Crypto Trading
 
-#  Bitcoin
+## Bitcoin
 
-#  Ethereum
+## Ethereum
 
-#  Binance Coin
+## Binance Coin
 
-# Made with 🤍by Ephraim Abstaina
+## Made with 🤍by Ephraim Abstaina
